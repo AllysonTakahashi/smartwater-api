@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SmartWater.API/SmartWater.API.csproj" />
+  <Project Path="SmartWater.Application/SmartWater.Application.csproj" />
+  <Project Path="SmartWater.Domain/SmartWater.Domain.csproj" />
+  <Project Path="SmartWater.Infrastructure/SmartWater.Infrastructure.csproj" />
+  <Project Path="SmartWater.Tests/SmartWater.Tests.csproj" />
+</Solution>

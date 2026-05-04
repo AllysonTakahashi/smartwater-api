@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.db
+*.log
+.env
+node_modules/
+.DS_Store
