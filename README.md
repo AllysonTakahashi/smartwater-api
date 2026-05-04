@@ -216,3 +216,11 @@ dotnet test SmartWater.Tests
 
 ### Architecture Decision
 > "I chose Clean Architecture without CQRS or MediatR because the system is CRUD-oriented. Adding those patterns would increase complexity without adding value at this scale. The layers are thin enough to understand in a code review but structured enough to scale if needed."
+
+## Documentation
+
+Additional project documentation is available in the `/docs` folder:
+
+- Requisito 1: Professional solution proposal
+- Requisito 2: Sprint planning and 12-week roadmap
+- Gantt schedule
